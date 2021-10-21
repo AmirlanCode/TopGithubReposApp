@@ -5,7 +5,9 @@ A new Flutter application.
 ## Technologies
 
 1)http package
+
 2)provider package
+
 3)intl package
 
 # API

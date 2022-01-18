@@ -1,6 +1,6 @@
 # TopGithubReposApp
 
-A new Flutter application.
+Тестовое задание(Техническое собеседование)
 
 ## Technologies
 

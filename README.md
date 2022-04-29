@@ -1,6 +1,6 @@
 # TopGithubReposApp
 
-Тестовое задание(Техническое собеседование)
+Technical task for interview
 
 ## Technologies
 
